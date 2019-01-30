@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@android:drawable/btn_star"
+        android:title="@string/home"/>
+
+    <item
+        android:id="@+id/navigation_workouts"
+        android:icon="@drawable/weightlifting"
+        android:title="@string/workouts"/>
+
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/baseline_account_circle_black_18dp"
+        android:title="@string/profile"/>
+
+</menu>

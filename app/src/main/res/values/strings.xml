@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">FitnessApp</string>
+    <string name="home">Home</string>
+    <string name="workouts">Workouts</string>
+    <string name="profile">Profile</string>
+
+    <string name="home_fragment">Home Fragment</string>
+    <string name="workout_fragment">Workout Fragment</string>
+    <string name="map_fragment">Map Fragment</string>
+
+    <string name="sample_name">Sample name</string>
+    <string name="sample_sample_com">sample@sample.com</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="personal_information">Personal Information</string>
+    <string name="user">Ahmet Can</string>
+    <string name="company">Hogeschool van Amsterdam</string>
+    <string name="telephone_number">Telephone number</string>
+    <string name="email">Email</string>
+
+    <string name="date">02-10-1999</string>
+    <string name="_1">1</string>
+    <string name="workout">Workout #1</string>
+    <string name="workoutName">Workout Name</string>
+    <string name="workoutDescription">Workout Description</string>
+    <string name="aantal">Aantal Trophies</string>
+
+    <string name="aantal1">1</string>
+    <string name="aantal3">3</string>
+    <string name="aantal5">5</string>
+    <string name="aantal7">7</string>
+    <string name="aantal10">10</string>
+    <string name="description">Description</string>
+
+    <string-array name="aantal">
+        <item>@string/aantal1</item>
+        <item>@string/aantal3</item>
+        <item>@string/aantal5</item>
+        <item>@string/aantal7</item>
+        <item>@string/aantal10</item>
+    </string-array>
+
+    <string name="title_home">Home</string>
+    <string name="title_workout">Workout</string>
+    <string name="title_Profile">Profile</string>
+    <string name="logout">Logout</string>
+    <string name="choose_picture">Choose Picture</string>
+
+
+</resources>
